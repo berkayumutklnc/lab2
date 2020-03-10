@@ -1,2 +1,2 @@
 # lab2
- ![Lab_No - Gif ](outputs/lab2.gif)
+ ![Lab2 - Gif ](outputs/lab2.gif)
